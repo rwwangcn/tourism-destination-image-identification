@@ -6,9 +6,13 @@
 link：https://pan.baidu.com/s/1Oaq0pnH8J3cd0oaUzqsscA    Extraction code：x45y
 
 The effect of the model trained with half the pictures is slightly different from the original.
+
 2. There are two directories for the downloaded images, one is the training set image data, and the other is the test set image data. Please store these two directories directly under the project directory.
+
 3. Please use the code files in the project directory. 1 Data Preprocessing & save to npy.ipynb to digitize and standardize the original picture. You can set the picture size.
+
 4. Please use the code file in the project directory 2 Multi-Label-Image-Classification with tansfer learning .ipynb for image transfer learning training. Note that you must first download the precompiled weights for imagenet migration learning.
+
 5. Please use the code file 3 Multi-Label-Image-Classification using combined precompiled weights.ipynb in the project directory to train the combined transfer learning pre-compiled weight model and evaluate the model.
 
 
