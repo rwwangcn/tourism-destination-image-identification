@@ -2,7 +2,9 @@
 25 image classification categories covering all the tourism scenes are established, which can serve a foundation for future AI tourism vision research. This study contributes to existing literature by introducing intelligent automation framework to tourism big data research and advancing innovative methodologies of analyzing online destination photos.
 
 1. Due to the large amount of picture data, only half of the pictures have been uploaded. Please download from the network disk.
+
 link：https://pan.baidu.com/s/1Oaq0pnH8J3cd0oaUzqsscA    Extraction code：x45y
+
 The effect of the model trained with half the pictures is slightly different from the original.
 2. There are two directories for the downloaded images, one is the training set image data, and the other is the test set image data. Please store these two directories directly under the project directory.
 3. Please use the code files in the project directory. 1 Data Preprocessing & save to npy.ipynb to digitize and standardize the original picture. You can set the picture size.
