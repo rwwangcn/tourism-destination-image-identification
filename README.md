@@ -3,7 +3,7 @@
 
 1. Due to the large amount of picture data, only half of the pictures have been uploaded. Please download from the network disk.
 
-link：https://pan.baidu.com/s/1Oaq0pnH8J3cd0oaUzqsscA    Extraction code：x45y
+link：
 
 The effect of the model trained with half the pictures is slightly different from the original.
 
